@@ -1,0 +1,16 @@
+{
+  "name": "back-end-pitagoras",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/janesroberta/back-end-pitagoras.git",
+  "author": "Janes Roberta <108099951+janesroberta@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
